@@ -1,2 +1,3 @@
 Hello
 Hi 
+updated script with two new functions
