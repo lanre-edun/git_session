@@ -7,3 +7,8 @@ sum_func <- function(a,b){
 div_func <- function(a,b){
   a/b
 }
+
+# new function to subract
+minus_func <- function(a,b){
+  a-b
+}
